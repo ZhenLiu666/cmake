@@ -1,0 +1,16 @@
+/Users/liuzhen/Desktop/CODE/cmake/Case5_install_test/CMakeFiles/Demo.dir
+/Users/liuzhen/Desktop/CODE/cmake/Case5_install_test/CMakeFiles/test.dir
+/Users/liuzhen/Desktop/CODE/cmake/Case5_install_test/CMakeFiles/edit_cache.dir
+/Users/liuzhen/Desktop/CODE/cmake/Case5_install_test/CMakeFiles/rebuild_cache.dir
+/Users/liuzhen/Desktop/CODE/cmake/Case5_install_test/CMakeFiles/list_install_components.dir
+/Users/liuzhen/Desktop/CODE/cmake/Case5_install_test/CMakeFiles/install.dir
+/Users/liuzhen/Desktop/CODE/cmake/Case5_install_test/CMakeFiles/install/local.dir
+/Users/liuzhen/Desktop/CODE/cmake/Case5_install_test/CMakeFiles/install/strip.dir
+/Users/liuzhen/Desktop/CODE/cmake/Case5_install_test/math/CMakeFiles/MathFunctions.dir
+/Users/liuzhen/Desktop/CODE/cmake/Case5_install_test/math/CMakeFiles/test.dir
+/Users/liuzhen/Desktop/CODE/cmake/Case5_install_test/math/CMakeFiles/edit_cache.dir
+/Users/liuzhen/Desktop/CODE/cmake/Case5_install_test/math/CMakeFiles/rebuild_cache.dir
+/Users/liuzhen/Desktop/CODE/cmake/Case5_install_test/math/CMakeFiles/list_install_components.dir
+/Users/liuzhen/Desktop/CODE/cmake/Case5_install_test/math/CMakeFiles/install.dir
+/Users/liuzhen/Desktop/CODE/cmake/Case5_install_test/math/CMakeFiles/install/local.dir
+/Users/liuzhen/Desktop/CODE/cmake/Case5_install_test/math/CMakeFiles/install/strip.dir

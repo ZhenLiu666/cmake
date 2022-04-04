@@ -1,0 +1,6 @@
+/Users/liuzhen/Desktop/CODE/cmake/Case3_subfolders/CMakeFiles/Demo.dir
+/Users/liuzhen/Desktop/CODE/cmake/Case3_subfolders/CMakeFiles/edit_cache.dir
+/Users/liuzhen/Desktop/CODE/cmake/Case3_subfolders/CMakeFiles/rebuild_cache.dir
+/Users/liuzhen/Desktop/CODE/cmake/Case3_subfolders/math/CMakeFiles/MathFunctions.dir
+/Users/liuzhen/Desktop/CODE/cmake/Case3_subfolders/math/CMakeFiles/edit_cache.dir
+/Users/liuzhen/Desktop/CODE/cmake/Case3_subfolders/math/CMakeFiles/rebuild_cache.dir
