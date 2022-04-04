@@ -1,0 +1,3 @@
+/Users/liuzhen/Desktop/CODE/cmake_learning/Case1_one_function/CMakeFiles/Demo.dir
+/Users/liuzhen/Desktop/CODE/cmake_learning/Case1_one_function/CMakeFiles/edit_cache.dir
+/Users/liuzhen/Desktop/CODE/cmake_learning/Case1_one_function/CMakeFiles/rebuild_cache.dir
