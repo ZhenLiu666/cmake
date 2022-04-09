@@ -42,6 +42,18 @@ Notes:
     - test calc class with add function 
     - class defination using hpp file and using #program once to set include guard
     - note the complie way shown in calc_test.cpp
+(4) Gtest_setup_teardown
+    - g++ main.cpp -o test -std=c++11 -lpthread -lgtest
+    - ./test
+    - If we use setup and teardown funcion, we need to define a class form Environment
+      Setup and Teardown for the environment run firstly for the whole file
+      Every setup function in testsuite need obey the rule setting in Environment setting 
+    - The teardown function is not necessary 
+    - TEST_F(test_suite_name, test_case_name): one test_suite can have many test_case
+    - Define TestMap from test class for SetupTestcase and Setup
+      SetupTestcase for the suite TestMap 
+      Setup for the testcase in TestMap
+
     
      
 
