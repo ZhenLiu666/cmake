@@ -38,6 +38,10 @@ Notes:
 (2) simpletest:
     - using the CMakeLists to compile and link the gtest library 
     - include the gtest TEST functions and function define to main.cpp file
+(3) Gtest_class:
+    - test calc class with add function 
+    - class defination using hpp file and using #program once to set include guard
+    - note the complie way shown in calc_test.cpp
     
      
 
