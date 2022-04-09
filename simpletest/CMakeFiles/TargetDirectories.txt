@@ -1,0 +1,3 @@
+/Users/liuzhen/CMakeFiles/demo.dir
+/Users/liuzhen/CMakeFiles/edit_cache.dir
+/Users/liuzhen/CMakeFiles/rebuild_cache.dir
