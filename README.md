@@ -23,6 +23,8 @@ Notes:
 
 Notes:
 (1) Gtest_one_function:
+    - test.cpp & a.out
+    - include the gtest TEST functions and function define to test.cpp function 
     - refer to: https://blog.csdn.net/qq_26915769/article/details/107028696
     - using command line run: 
        g++ -std=c++11 test.cpp -lgtest -lpthread 
@@ -33,7 +35,9 @@ Notes:
                 "${workspaceFolder}/**",
                 "/usr/local/include"
         ]
-(2)
+(2) simpletest:
+    - using the CMakeLists to compile and link the gtest library 
+    - include the gtest TEST functions and function define to main.cpp file
     
      
 

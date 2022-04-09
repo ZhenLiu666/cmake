@@ -1,3 +1,8 @@
+/* 
+Using command line as follows:
+g++ -std=c++11 test.cpp -lgtest -lpthread 
+the output file is a.out 
+*/
 #include <gtest/gtest.h>
 using namespace std; 
 
